@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 837.26 137">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        font-size: 80.58px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        font-family: SnellRoundhand, Snell Roundhand;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.01em;
+      }
+    </style>
+  </defs>
+  <title>Asset 7</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <text class="cls-1" transform="translate(532.18 85.86)">Financial</text>
+      <line class="cls-2" x1="508.75" x2="508.75" y2="137"/>
+      <text class="cls-3" transform="translate(0 92.19)"><tspan class="cls-4">F</tspan><tspan class="cls-5" x="49.56" y="0">ou</tspan><tspan class="cls-6" x="154.32" y="0">r</tspan><tspan x="187.84" y="0">th</tspan><tspan class="cls-7" x="275.11" y="0">r</tspan><tspan x="306.78" y="0">ight </tspan></text>
+    </g>
+  </g>
+</svg>
